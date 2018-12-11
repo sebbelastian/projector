@@ -1,0 +1,10 @@
+GLfloat angleX
+GLfloat angleY
+GLfloat anglez
+GLdouble transX
+GLdouble transY
+GLdouble transZ
+GLdouble neardist
+GLdouble fardist
+unsigned char transformChosen
+unsigned char axisChosen
